@@ -1,0 +1,79 @@
+/*
+Purple color: #73142D
+light green: #A4BF41
+gray: #333333
+*/
+body{
+    padding: 24px;
+    background-color: #333333;
+}
+
+
+h1, h2{
+    color:   #A4BF41;
+    letter-spacing: 3px;
+    font-size:xx-large
+}
+
+h1{
+    text-align: center;
+}
+
+p, li{
+    color:#FFFFFF;
+    font-size: 20px;
+    line-height: 1.2;
+}
+
+p.pictures{
+    text-align: center;
+}
+
+td.features {
+    font-size: 16px;
+    text-align: center;
+}
+
+td.Prices {
+    font-size: 14px;
+}
+
+
+div {
+    text-align: center;
+}
+
+table {
+    color: #FFFFFF;
+    border-collapse: collapse;
+    margin: 0 auto;
+}
+
+a {
+    color: #FFFFFF;
+}
+
+th, td {
+    border: #FFFFFF;
+    font-size: 18px;
+    padding: 10px;
+    border-style: inset;
+}
+
+a:hover{
+    color: #A4BF41;
+}
+
+p.conclussion{
+    font-size: 17px;
+}
+
+
+img{
+    border: #73142D 12px outset;
+}
+img.last{
+    border: none;
+    margin-top: 70px;
+}
+
